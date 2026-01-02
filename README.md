@@ -1,3 +1,22 @@
+# AI Builder + Power Automate (Automated Cloud Flow)
+By using AI builder we can create custom AI models that meets our business needs. 
+-Extracting the data from lots of invoice copies take time , this can be simplified using AI models.
+-Here I will explain how to train model to extract the data from invoice copies and by using the  power Automate flow the invoice extraction of data and storing the data in database can be automated.
+
+We do this in 5 Steps
+
+-Use an AI model -First we will choose the  available AI models in power platform.
+-Tarin and Publish the model-  we will train the model with 5 documents and publish.
+-Create a flow- Using Automated cloud flow we are creating flow
+-use the AI model Trained - with the help of  AI model name trained we will specify the model to use.
+-store the data in the Database- Store the data in Microsoft dataverse which is part of power platform.
+
+-You can view my app/way I built the app in this  video link below.
+
+https://youtu.be/8dd30d8-p7M
+
+
+
 # PowerApps - Canvas APP
 
 -I built a Canvas App using Microsoft Dataverse as the backend. The main purpose of the app is to let users fill in a form and save their information directly into the Dataverse table.
